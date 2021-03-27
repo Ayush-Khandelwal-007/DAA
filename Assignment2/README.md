@@ -4,8 +4,8 @@
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
 |    IIT2019240  |   Ayush Khandlewal | Ayush-Khandelwal-007 |
-|    IIT2019501  |   Ayush Bhagta |  Ayush Bhagta add | 
-|    BIM2015003  |   Tauhid Alam |  Tauhid Alam add  |
+|    IIT2019501  |   Ayush Bhagta |  newton1088 | 
+|    BIM2015003  |   Tauhid Alam |  bim2015003  |
 
 
 **Group No-**"19"
