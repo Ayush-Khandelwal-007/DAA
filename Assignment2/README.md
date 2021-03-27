@@ -10,7 +10,7 @@
 
 **Group No-**"19"
 
-**Faculty Name-**""
+**Faculty Name-**"Dr. M.D. Javed"
 
 **Mentor Name-** "Md. Meraz"
 
