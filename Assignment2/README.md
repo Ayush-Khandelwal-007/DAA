@@ -67,7 +67,43 @@ The number of subsets of arr[] having XOR of elements as K
 Sample Inout Output Interaction on termial.
 
 ```
-
+ayush@Ayushs-MacBook-Air  ~/Documents/projects/DAA/Assignment2   main ±  g++ code.cpp 
+ayush@Ayushs-MacBook-Air  ~/Documents/projects/DAA/Assignment2   main  ./a.out 
+Enter number of elements
+10
+Enter the elements
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Enter value of K
+5
+Count of subsets is 64
+ayush@Ayushs-MacBook-Air  ~/Documents/projects/DAA/Assignment2   main  ./a.out
+Enter number of elements
+12
+Enter the elements
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Enter value of K
+7
+Count of subsets is 256
 ```
 
 ---
