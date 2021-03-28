@@ -22,7 +22,8 @@ programming.
 
 ---
 ## How to use code
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
+
+clone tis repository on your device localy.Further compile the code and run as per the below instructions. Finally give the input as per the code asks to input.
 
 ### Download project
 ```
