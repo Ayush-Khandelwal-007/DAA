@@ -202,7 +202,10 @@ This will result in the space complexity of **O(n∗m).**
 
 ### References
 
-
-- https://www.geeksforgeeks.org/calculate-xor-1-n
-- https://www.geeksforgeeks.org/dynamic-programming/
-- Cormen, Leiserson, Rivest, and Stein (2009). Introduction to Algorithms, 3rd edition.
+1)  https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+2)  https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+3)  https://www.eecis.udel.edu/∼mccoy/courses/cisc4-681.10f/lec-materials/handouts/search-water-jug-handout.pdf
+4)  https://en.wikipedia.org/wiki/Breadth-firstsearch
+5)  https://en.wikipedia.org/wiki/Depth-firstsearch
+6)  R.  S.  Mary,  “An  alternative  arithmetic  approach  to  thewater  jugs  problem,”  Proceedings  on  National  Con-ference  on  Computational  Intelligence  for  EngineeringQuality Software, 1, 2014, pp. 10-13.
+7)  S.  Abu  Naser,  “Developing  visualization  tool  for  theteaching AI searching algorithms,” Information Technol-ogy Journal, 7(2), 2008, pp. 350–355.
