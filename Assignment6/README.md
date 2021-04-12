@@ -46,16 +46,19 @@ Clone this repository on your device localy.Further compile the code and run as 
 git clone https://github.com/Ayush-Khandelwal-007/DAA
 ```
 
-### Compiling the code
+### Going to the Assignment folder
 Pre-requisit to run this code is to have python3 installled in your system.
 ```
-cd DAA
-cd Assignment3
+cd DAA/Assignment3
 ```
 
 ### Run the code
 ```
 python3 code.py
+```
+### Intput
+```
+Give the Maximum capacity of both the jugs, required amount and the type of Algorithm desired to solve in the order asked by the progam.
 ```
 ### Output
 ```
@@ -64,6 +67,7 @@ Output will first show all the possible cases that are possible from previous ca
 ---
 
 **Test case**
+
 Sample Inout Output Interaction on termial.
 
 ```
