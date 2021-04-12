@@ -23,28 +23,12 @@ programming.
 ---
 ## How to use code
 
-clone tis repository on your device localy.Further compile the code and run as per the below instructions. Finally give the input as per the code asks to input.
+Clone this repository on your device localy.Further compile the code and run as per the below instructions. Finally give the input as per the code asks to input.
 
 ### Download project
 ```
 git clone https://github.com/Ayush-Khandelwal-007/DAA
 ```
-<!-- ### Project Initialize 
-```
-cd daa
-#create assignment-1 folder
-mkdir assignment_01
-
-#go to assignment-1
-cd assignment_01
-
-#Create file
-touch readme.md
-touch main.py
-.
-.
-```
---- -->
 
 ### Compiling the code
 Pre-requisit to run this code is to have a any c++ compiler like g++ installed in your system.
@@ -60,7 +44,7 @@ g++ code.cpp
 ```
 ### Output
 ```
-The number of subsets of arr[] having XOR of elements as K
+A single Integer value depicting the number of subsets of arr[] having XOR of elements as K
 ```
 ---
 
